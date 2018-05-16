@@ -1,0 +1,15 @@
+/*由 src/less/pages/add-todo/add-todo.less 生成，请勿手动修改以免被覆盖！*/
+.page-add-todo {
+  flex: 1;
+}
+.page-add-todo .add-todo {
+  height: 200px;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.page-add-todo .add-todo-input {
+  font-size: 20px;
+  padding: 10px;
+}
