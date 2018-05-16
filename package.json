@@ -1,7 +1,7 @@
 {
-  "name": "alipay-super-portal",
+  "name": "alipay-miniapp-starter-proj",
   "version": "0.0.1",
-  "description": "支付宝小程序超级APP入口",
+  "description": "alipay-miniapp-starter",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,15 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.dev.acewill.net:welife/frontend.git"
+    "url": "git@github.com:tonylua/alipay-miniapp-starter.git"
   },
   "keywords": [
-    "超级APP",
-    "入口",
-    "acewill",
-    "微生活"
+    "支付宝小程序",
+    "less",
+    "nodejs",
+    "mock",
+    "开发启动包"
   ],
-  "author": "luanluan@acewill.cn",
+  "author": "tonylua@sina.com",
   "license": "ISC",
   "devDependencies": {
     "base64-img": "^1.0.3",
